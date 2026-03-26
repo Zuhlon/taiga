@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+bun.lock
+
+# Next.js
+.next/
+out/
+
+# Build
+dist/
+build/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads & Downloads (временные файлы)
+upload/
+download/
+
+# Database
+db/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Worklog
+worklog.md
